@@ -14,3 +14,4 @@ main-js:
     - vendor/mark.js
     - vendor/datatables.mark.js
     - datatablesview_plus.js
+    - resource-view-sharesearch.js
